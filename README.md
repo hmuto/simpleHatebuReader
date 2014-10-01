@@ -3,12 +3,9 @@ SimpleHatebuViewer-iOS
 
 iPhone6 plusを購入したものの、広い解像度を活かせるはてなブックマークビューアがなかったので、自分でつくってみました。  
 公開の予定はなかったのですが、くれくれリクエストをいただいたので公開します。  
-ほんとたいしたものじゃないので、一応ライセンスはつけてますが、再利用はご自由に。  
+ほんとたいしたものじゃないので、一応MITライセンスはつけてますが、再利用はご自由に。  
   
-![カテゴリ一覧](./images/main.png)
-![記事一覧](./images/detail.png)
-![ウェブページ表示](./images/webview.png)
-  
+![記事一覧](./images/detail.png)![ウェブページ表示](./images/webview.png)![カテゴリ一覧](./images/main.png)
   
 ### LICENSE
 
